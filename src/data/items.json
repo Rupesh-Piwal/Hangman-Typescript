@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Rebook Shoes",
+    "price": 10.99,
+    "imgUrl": "https://imgs.search.brave.com/7u2oYugu-125gvuExPF9HqWGlRJl8LyJapjib-gGv3g/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFoWWU3R3d3Skwu/anBn"
+  },
+  {
+    "id": 2,
+    "name": "Canon Camera",
+    "price": 1199,
+    "imgUrl": "https://imgs.search.brave.com/568QYG84F5jJRdt1IEmf9LyrQ-6PXmFuzCIiaPi26Iw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2Fub24uY29tLmF1/Ly0vbWVkaWEvaW1h/Z2VzL2xlYXJuaW5n/L2Vvcy1yLXZzLWVv/cy1tLXZzLWRzbHIt/Y29tcGFyaXNvbi9k/c2xyLTEwMDAuYXNo/eD9sYT1lbg"
+  },
+  {
+    "id": 3,
+    "name": "MI Jersey",
+    "price": 1.05,
+    "imgUrl": "https://imgs.search.brave.com/sgqkBLDOtTuGcVP4DcSMTX96F5XNQIrXo5jUqZucYyk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFpQW1qejJFQUwu/anBn"
+  },
+  {
+    "id": 4,
+    "name": "Durex condems",
+    "price": 1400,
+    "imgUrl": "https://imgs.search.brave.com/qEQckAH_NWPDAFN1pk3I8UABqWOZp9dp3ymQMMRcO7E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZHVyZXhpbmRpYS5j/b20vY2RuL3Nob3Av/ZmlsZXMvMV8xNjg5/NDdhNS1mYjM4LTQz/OTMtYmMwOS1iODk2/ZmQzYzk3ZDMud2Vi/cD92PTE2OTc2OTY5/Mzkmd2lkdGg9NzIw"
+  }
+]
